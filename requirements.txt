@@ -1,0 +1,28 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+requests
+
+# FastAPI security
+python-multipart
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-google-genai
+langchain-core
+langchain-text-splitters
+
+# PDF loader
+PyPDF2  # Used internally by PyPDFLoader
+
+# Vector store
+chromadb
+faiss-cpu  # or faiss-gpu if using GPU
+
+# Google Generative AI
+google-generativeai
+
+# For environment variable handling and async support
+httpx
