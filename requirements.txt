@@ -14,8 +14,8 @@ langchain-google-genai
 langchain-core
 langchain-text-splitters
 
-# PDF loader
-PyPDF2  # Used internally by PyPDFLoader
+# PDF loade
+pypdf # Used internally by PyPDFLoader
 
 # Vector store
 chromadb
