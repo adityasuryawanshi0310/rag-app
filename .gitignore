@@ -1,8 +1,1 @@
-# Ignore Python cache directories (in any folder)
-**/__pycache__/
 
-# Ignore app/documents folder
-app/documents/
-
-# Ignore .env file
-.env
